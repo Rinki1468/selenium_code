@@ -1,0 +1,4500 @@
+[{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab0"
+  },
+  "cin": "U74999RJ1857PLC000649",
+  "company": "JHUNJHUNU COMMERCIAL COMPANY LIMITED",
+  "ROC": "ROC-JAIPUR",
+  "address": "RJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab1"
+  },
+  "cin": "U15499WB1863PTC000111",
+  "company": "CHEVIOT AGRO INDUSTRIES PRIVATE LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "CELICA HOUSE, 9TH FLOOR, CELICA PARK 24 PARK STREET KOLKATA Kolkata WB 700016 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab2"
+  },
+  "cin": "L50403WB1863PLC000114",
+  "company": "C L S LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "20, SALKIA SCHOOL ROAD SALKIA HOWRAH WB 711106 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab3"
+  },
+  "cin": "L99999MH1863PLC000002",
+  "company": "BOMBAY BURMAH TRADING CORPORATION LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "9, WALLACE STREET,FORT MUMBAI, PIN - 400 001. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab4"
+  },
+  "cin": "U01132WB1871PLC000233",
+  "company": "SINGELL TEA AND AGRICULTURAL INDUSTRIESLTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "D4-39/A/NEW HINDUSTAN GAS COMPANY ROAD -1 PO: BATANAGAR, PS: MAHESHTALA, NR. LUNGI STATION KOLKATA Kolkata WB 700140 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab5"
+  },
+  "cin": "U70101MH1871PTC000004",
+  "company": "THE NEW PIECE GOODS BAZAR COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "51/53 L.K. Chawl, Ground Floor, Room No. 1, 2 & 3 1st Ganeshwadi, Near M.J. Market Mumbai Mumbai City MH 400002 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab6"
+  },
+  "cin": "L17120MH1871PLC000005",
+  "company": "PENINSULA LAND LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "503, 5th Floor, Peninsula Tower-1, Peninsula Corporate Park, Ganpatrao Kadam Marg, Lower Parel Mumbai Mumbai City MH 400013 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab7"
+  },
+  "cin": "U22211PN1872PTC000006",
+  "company": "SIND PRESS COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab8"
+  },
+  "cin": "U65991TN1872PLC001381",
+  "company": "THE MYLAPORE HINDU PERMANENT FUND LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "32 & 33, SOUTH MADA ST MYLAPORE, CHENNAI TN 600004 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cab9"
+  },
+  "cin": "U10200WB1873PLC000262",
+  "company": "THE NEW BEERBHOOM COAL CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "YULE HOUSE, 8, DR. RAJENDRA PRASAD SARANI (FORMERLY 8, CLIVE ROW) KOLKATA Kolkata WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caba"
+  },
+  "cin": "U51311MH1873PLC000013",
+  "company": "SWADESHIYA MALACHA VYAPAR KARNARIMANDALI LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "SHOP NO 227MANGALDAS MARKET LANE NO 5 MUMBAI MH 400002 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cabb"
+  },
+  "cin": "U17110MH1873PLC000015",
+  "company": "THE NEW GREAT EASTERN SPINNING ANDWEAVING COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "25-29, DR AMBEDKAR ROAD BYCULLA MUMBAI Mumbai City MH 400027 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cabc"
+  },
+  "cin": "L01132WB1874PLC000281",
+  "company": "MOTHOLA COMPANY LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "707 CENTRAL PLAZA2/6 SARAT BOSE RD KOLKATA WB 700020 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cabd"
+  },
+  "cin": "U17111UP1874PLC000003",
+  "company": "THE MUIR MILLS COMPANY LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "CIVIL LINES,KANPUR KANPUR UTTAR PRADESH Jyotiba Phule Nagar UP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cabe"
+  },
+  "cin": "U17119MH1874PLC000021",
+  "company": "THECENTRAL INDIA SPINNING, WEAVING ANDMANUFACTURING COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cabf"
+  },
+  "cin": "U01132WB1874PLC000306",
+  "company": "THE LACKATOORAH TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "27, BRABOURNE ROAD, 8th floor Kolkata Kolkata WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac0"
+  },
+  "cin": "L15491WB1876PLC000341",
+  "company": "AMLUCKIE INVESTMENT CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "10, PRINCEP STREET, 2ND FLOOR, KOLKATA WB 700072 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac1"
+  },
+  "cin": "U01132AS1876PLC000003",
+  "company": "CACHAR NATIVE JOINT STOCK CO LTD",
+  "ROC": "ROC-SHILLONG",
+  "address": "CLUB ROAD SILCHAR , India. 788001"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac2"
+  },
+  "cin": "L15491WB1876PLC000347",
+  "company": "TEESTA VALLEY TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "5 &7 NETAJI SUBHAS ROAD KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac3"
+  },
+  "cin": "L51109WB1977PLC000361",
+  "company": "KAMARHATTY CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "16A BRABOURNE ROAD KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac4"
+  },
+  "cin": "L21098MH1878PLC000033",
+  "company": "THACKER AND COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "BHOGILAL HARGOVINDAS BUILDING MEZANNINE FLOOR, 18/20, K. DUBHASH MARG MUMBAI Mumbai City MH 400001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac5"
+  },
+  "cin": "U01132WB1878PLC000368",
+  "company": "HIND TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "ARUN TEA WAREHOUSE COMPLEX 2.5 MILE, SEVOKE ROAD. SILIGURI Darjeeling WB 734001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac6"
+  },
+  "cin": "U15491WB1879PLC000378",
+  "company": "DARJEELING TEA & CHINCHONA ASSOCIATIONLTD.",
+  "ROC": "ROC-KOLKATA",
+  "address": "4, FAIRLIE PLACE, KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac7"
+  },
+  "cin": "L15491WB1879PLC000377",
+  "company": "LONGVIEW TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "16 HARE STREET KOLKATA Kolkata WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac8"
+  },
+  "cin": "U63020BR1879PLC000001",
+  "company": "JAMALPUR ICE COMPANY LIMITED",
+  "ROC": "ROC-PATNA",
+  "address": "E RLY TANK SQUARE 14 MARINA ROAD JAMALPUR MUNGER BR 811214 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cac9"
+  },
+  "cin": "U65992TN1879PLC001971",
+  "company": "PURASAWAKAM SANTHATHA SANGA NIDHILIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "NO.49, VELLALA STREET PURASAWALKAM CHENNAI TN 600084 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caca"
+  },
+  "cin": "L17120MH1879PLC000037",
+  "company": "THE BOMBAY DYEING AND MANUFACTURINGCOMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "NEVILL HOUSE, JN HEREDIA MARG, BALLARD ESTATE, MUMBAI MH 400001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cacb"
+  },
+  "cin": "U70100MH1880PLC000039",
+  "company": "COLABA LAND AND MILL COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "1017 RAHEJA CHAMBERS 213 NARIMAN POINT MUMBAI MH 400021 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cacc"
+  },
+  "cin": "U22210GJ1880PLC000002",
+  "company": "AHMEDABAD MANUFACTURING AND CALICOPRINTING COMPANY LIMITED",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "OUTSIDE JAMALPUR GATE, P.O.BOX NO-12, AHMEDABAD Ahmedabad GJ 380001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cacd"
+  },
+  "cin": "U99999RJ1881PTC001084",
+  "company": "G MAHALAXMI LAGHU UDYOG PVT LTD",
+  "ROC": "ROC-JAIPUR",
+  "address": "RAJASTHANRAJASTHAN RAJASTHAN RAJASTHAN RJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cace"
+  },
+  "cin": "U17120GJ1881PLC000003",
+  "company": "GUJARAT GINNING AND MFG CO. LIMITED",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "OPP.PREM GATE,AHMEDABAD. Ahmedabad GJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cacf"
+  },
+  "cin": "U65110TN1881PLC002799",
+  "company": "SRIMAN MADHWA SIDHANTAONNAHINI PERMANENT NIDHI LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "No 37, Car Street Triplicane Chennai Chennai TN 600005 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad0"
+  },
+  "cin": "L17110MH1882PLC000045",
+  "company": "THE HINDOOSTAN SPINNING AND WEAVING MILLS LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "SIR VITHALDAS CHAMBERS16 MUMBAI SAMACHAR MARG, MUMBAI MH 400001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad1"
+  },
+  "cin": "U01132WB1882PLC000427",
+  "company": "RUNGAMATTEE TEA & INDUSTRIES LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "90/31, DIAMOND HARBOUR ROAD, KOLKATA WB 700038 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad2"
+  },
+  "cin": "U15427WB1882PLC000443",
+  "company": "CAMPERDOWN PRESSING CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "14, INDIA EXCHANGE PLACE,CALCUTTA-1. WB 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad3"
+  },
+  "cin": "U65993KA1882PLC000771",
+  "company": "BELLARY BRUCE PETTAH HINDU MUTUALBENEFIT PERMANENT FUND LIMITED",
+  "ROC": "ROC-BANGALORE",
+  "address": "GOLDSMITH STREET BELLARY BELLARY BELLARY KA 583101 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad4"
+  },
+  "cin": "U65991TN1883PLC001826",
+  "company": "THE NUNGAMBAKAM SASWATHA DHANA RAKSHAKANIDHI LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "OLD NO.11 NEW NO.15 RAMA STREET, NUNGAMBAKKAM, CHENNAI TN 600034 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad5"
+  },
+  "cin": "U51109WB1883GAP000462",
+  "company": "CALCUTTA CHAMBER OF COMMERCE",
+  "ROC": "ROC-KOLKATA",
+  "address": "STEPHEN COURT, 18TH, PARK STREET, KOLKATA WB 700071 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad6"
+  },
+  "cin": "U65110JH1883PLC000002",
+  "company": "CHOTANAGPUR BANKING ASSOCIATION LIMITED",
+  "ROC": "ROC-JHARKHAND",
+  "address": "HAZARIBAGHHAZARIBAGH HAZARIBAGH , India, 829122"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad7"
+  },
+  "cin": "U99999MH1983PTC000053",
+  "company": "HARVEY AND SABAPATHY COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "5TH FL., LOKHANDEWALA BLDG.,38, BORA BAZAR RD. BOMBAY-1. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad8"
+  },
+  "cin": "U67120TN1883PTC000418",
+  "company": "CHENGALPUT DHANASEKARA CHIT FUND PRIVATE LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "NO.289, HIGH ROAD, CHINGLEPET TN 631001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cad9"
+  },
+  "cin": "U74999RJ1884PTC003103",
+  "company": "KOTEX INDIA PRIVATE LIMITED",
+  "ROC": "ROC-JAIPUR",
+  "address": "11/161AZAD MOHALLA BHILWARA RAJASTHAN RJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cada"
+  },
+  "cin": "U65910PN1884PTC000062",
+  "company": "EUROPIAN AND ANGLO INDIAN DEPOSIT AND LOAN SOCIETY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cadb"
+  },
+  "cin": "L01132WB1885PLC000505",
+  "company": "MANABARRIE TEA CO LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "28/1, SHAKESPEARE SARANI. GANGA JAMUNA BUILDING. KOLKATA WB 700017 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cadc"
+  },
+  "cin": "U99999PN1885PLC000069",
+  "company": "THE DECCAN PAPER MILLS COMPANY LIMITED",
+  "ROC": "ROC-PUNE",
+  "address": "96C, OPPOSITE HADAPSAR RAILWAY STATION, MUNDHWA, PUNE PUNE MH 411036 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cadd"
+  },
+  "cin": "U01132WB1885PLC000513",
+  "company": "ARYA TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "37 SHAKESPEARE SARANI4TH FLOOR KOLKATA WB 700017 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cade"
+  },
+  "cin": "U65929TN1886PLC000672",
+  "company": "EGMORE BENEFIT SOCIETY LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "NEW NO.25, OLD NO.13 FLOWERS ROAD MADRAS TN 600084 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cadf"
+  },
+  "cin": "U99999MH1886PLC010245",
+  "company": "THE BERAR TRADING COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "DEEPLAXMI APARTMENT, SHOP NO. 10 BIRLA GATE NO.2 ,JATHARPETH, AKOLA MH 444001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae0"
+  },
+  "cin": "U99999UP1887NPL000012",
+  "company": "BHARATVARSHIYA NATIONAL ASSOCIATION",
+  "ROC": "ROC-KANPUR",
+  "address": "G.T. ROAD ALIGARH ALIGARH UP 202001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae1"
+  },
+  "cin": "U70101MH1888PTC000079",
+  "company": "JOHN ROBERTS AND COMPANY PRIVATE LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "SEWRI FORT ROAD SEWRI MUMBAI Mumbai City MH 400015 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae2"
+  },
+  "cin": "U65993WB1888PLC000559",
+  "company": "SREE RAMESHWAR PRASAD INVESTMENT CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "24/1/2 Alipore Road Kolkata Kolkata WB 700027 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae3"
+  },
+  "cin": "U65191AP1888PLC000002",
+  "company": "THE NELLORE PERMANENT FUND LTD",
+  "ROC": "ROC-VIJAYAWADA",
+  "address": "ACHARI STREET, NELLORE, AP AP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae4"
+  },
+  "cin": "U22121KL1889PLC000647",
+  "company": "THE MALAYALA MANORAMA CO LTD",
+  "ROC": "ROC-ERNAKULAM",
+  "address": "MANORAMA BUILDING K K ROAD KOTTAYAM KL 686001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae5"
+  },
+  "cin": "L74899DL1889PLC000004",
+  "company": "D C M LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "Unit Nos. 2050 to 2052, 2nd Floor,Plaza Square,20, Manohar Lal Khurana Marg,Bara Hindu Rao Delhi DL 110006 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae6"
+  },
+  "cin": "U91990TZ1889GAP000136",
+  "company": "OOTACAMUND CLUB",
+  "ROC": "ROC-COIMBATORE",
+  "address": "179, CLUB ROAD OOTACAMUND Nilgiris TN 643001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae7"
+  },
+  "cin": "U17111RJ1889PLC000003",
+  "company": "THE KRISHNA MILLS LTD",
+  "ROC": "ROC-JAIPUR",
+  "address": "20 GANPATI PLAZA, BHAGAT CHAURAHA BEAWAR Ajmer RJ 305901 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae8"
+  },
+  "cin": "L01132WB1889PLC000576",
+  "company": "NEW CHUMTA TEA COMPANY LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "3 NETAJI SUBHAS ROAD, MCLED HOUSE KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cae9"
+  },
+  "cin": "L63022GJ1889PLC000006",
+  "company": "THE MOTILAL HIRABHAI ESTATE ANDWAREHOUSE LIMITED",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "OPP. PREM DARWAJA, AHMEDABAD Ahmedabad GJ 380002 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caea"
+  },
+  "cin": "U01403WB1889PLC000586",
+  "company": "THE MOHES CHUNDER LAND RECLAMATION ANDAGRICULTURAL IMPROVEMENT CO. LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "4A MAHENDRA ROAD GROUND FLOOR KOLKATA Kolkata WB 700025 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caeb"
+  },
+  "cin": "U09110UP1889PLC000013",
+  "company": "THE MEERUT LAW CHAMBERS COMPANY LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "CIVIL COURT COMPOUND MEERUT UTTAR PRADESH UP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caec"
+  },
+  "cin": "U67120TN1890PLC002960",
+  "company": "TRIVELLORE JANOPAKARA SASWATHA NIDHI LTD",
+  "ROC": "ROC-CHENNAI",
+  "address": "53, BIG BRAHMISE ST.,TIRUVELLORE. TN 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caed"
+  },
+  "cin": "U51101KA1890PTC000870",
+  "company": "GADAG MAHALAXMI ENTERPRISE PRIVATE LIMITED",
+  "ROC": "ROC-BANGALORE",
+  "address": "GADAG DIST DHARWAR DHARWAR KA 575001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caee"
+  },
+  "cin": "U01132AS1890PLC000043",
+  "company": "JHIRIGHAT NATIVE TEA CO LTD",
+  "ROC": "ROC-SHILLONG",
+  "address": "G.S.ROAD, DISPUR,DIST. KAMRUP, GUWAHATI , India. 781005"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caef"
+  },
+  "cin": "L15421WB1890PLC000612",
+  "company": "TYROON TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "3, NETAJI SUBHAS ROAD,CALCUTTA-1 WB 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf0"
+  },
+  "cin": "L51909WB1890PLC000625",
+  "company": "HOWRAH MILLS CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "HOWRAH HOUSE 135,FORESHORE ROAD HOWRAH WB 711102 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf1"
+  },
+  "cin": "L17232WB1890PLC000627",
+  "company": "FORT GLOSTER INDUSTRIES LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "PO-FORT GLOSTER; BAURIA HOWRAH Howrah WB 711310 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf2"
+  },
+  "cin": "U17111RJ1890PTC000004",
+  "company": "THE RAJPUTANA COTTON PRESS COMPANY PRIVATE LIMITED",
+  "ROC": "ROC-JAIPUR",
+  "address": "D-126, B, KABIR MARG, BANI PARK, JAIPUR RJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf3"
+  },
+  "cin": "U52520AP1890PLC000005",
+  "company": "ADONI MUTUAL BENEFIT PERMANENT FUND LTD",
+  "ROC": "ROC-VIJAYAWADA",
+  "address": "XIX/115, B.N. TALKIES ROAD, ADONI AP 518301 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf4"
+  },
+  "cin": "U11400WB1891PLC000670",
+  "company": "BORREA COAL CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "FD-350 SECTOR-III SALT LAKEKLOKATA W.B 700091 WB 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf5"
+  },
+  "cin": "L01132WB1891PLC000687",
+  "company": "PAHARGOOMIAH TEA ASSOCIATION LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "28/2 Shakespeare Sarani Room No.803, 8th Floor KOLKATA WB 700017 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf6"
+  },
+  "cin": "U24231UP1881PLC000005",
+  "company": "EAST HOPETOWN ESTATE CO LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "EAST HOPETOWN ESTATEPOST OFFICE AMBIWAL DEHRADUN UTTAR PRADESH UP 248007 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf7"
+  },
+  "cin": "U91990UP1891PLC000014",
+  "company": "WHELER CLUB LTD.",
+  "ROC": "ROC-KANPUR",
+  "address": "THE MALL MEERUT UP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf8"
+  },
+  "cin": "U70102AP1891PTC000006",
+  "company": "VADLAMUDI ESTATES PRIVATE LIMITED",
+  "ROC": "ROC-VIJAYAWADA",
+  "address": "D.NO. 1-3-30/1/A, Gujjanagundla, Guntur Guntur AP 522006 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caf9"
+  },
+  "cin": "L17110MH1892PLC000089",
+  "company": "STANDARD INDUSTRIES LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "Flat No.1, Ground Floor, Harsh Apartment Plot No. 211, Sector-28, Vashi Navi Mumbai Thane MH 400703 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cafa"
+  },
+  "cin": "U74900KL1892PLC000515",
+  "company": "KANDATHIL KUDUMBAYOGA COMPANY LIMITED",
+  "ROC": "ROC-ERNAKULAM",
+  "address": "ALLEPPEY Alappuzha KL 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cafb"
+  },
+  "cin": "L01132WB1893PLC000742",
+  "company": "TONGANI TEA COMPANY LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "OCTAVIUS CENTRE,3RD FLOOR 15B,HEMANTA BASU SARANI KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cafc"
+  },
+  "cin": "U70109UP1893GOI000015",
+  "company": "BRUSHWARE LTD",
+  "ROC": "ROC-KANPUR",
+  "address": "SUTERLAND HOUSE, CIVIL lINES KANPUR-208001 Jyotiba Phule Nagar UP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cafd"
+  },
+  "cin": "U67120WB1893NPL000761",
+  "company": "THE BENGAL CHAMBER OF COMMERCE ANDINDUSTRY",
+  "ROC": "ROC-KOLKATA",
+  "address": "6 N S ROAD KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cafe"
+  },
+  "cin": "U65929AS1893PLC000050",
+  "company": "BHARAT LOAN COMPANY LIMITED",
+  "ROC": "ROC-SHILLONG",
+  "address": "CLUB ROAD, P O SILCHAR SILCHAR , India. 788001"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90caff"
+  },
+  "cin": "U10200WB1893PLC000769",
+  "company": "KATRAS JHERRIAH COAL CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "8,DR.RAJENDRA PROSAD SARANI WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb00"
+  },
+  "cin": "U15421UP1894PLC000019",
+  "company": "CAWNPORE SUGAR WORKS LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "SUTHERLAND HOUSEKANPUR KANPUR UTTAR PRADESH Jyotiba Phule Nagar UP 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb01"
+  },
+  "cin": "U91110UP1894NPL000017",
+  "company": "THE UPPER INDIA CHAMBER OF COMMERCE",
+  "ROC": "ROC-KANPUR",
+  "address": "PLOT NO. 4, INDUSTRIAL AREA, GOVIND NAGAR, P.O. UDYOG NAGAR, KANPUR Kanpur UP 208022 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb02"
+  },
+  "cin": "U65992WB1894PLC000925",
+  "company": "GIELLE INVESTMENTS LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "26/2, Armenian Street, 1st Floor Kolkata WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb03"
+  },
+  "cin": "U85300WB1894NPL000942",
+  "company": "JALPAIGURI CLUB COMPANY LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "CLUB ROAD JALPAIGURI WB 735101 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb04"
+  },
+  "cin": "L15494WB1895PLC000963",
+  "company": "THE GROB TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "\"HAUTE STREET\" 9TH FLOOR, 86A, TOPSIA ROAD KOLKATA WB 700046 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb05"
+  },
+  "cin": "U99999MH1895NPL000121",
+  "company": "BOMBAY INCORPORATED LAW SOCIETY",
+  "ROC": "ROC-MUMBAI",
+  "address": "2ND FLOOR, HIGH COURT ANNEXE BUILDING, FORT, MUMBAI MH 400032 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb06"
+  },
+  "cin": "U17110MH1895PLC010246",
+  "company": "RAMJEE KANOO GINNING AND PRESSINGCOMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "KARANJA AKOLA AKOLA MH 444105 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb07"
+  },
+  "cin": "U15422WB1895PTC000975",
+  "company": "NAHORJAN TEA CO PVT LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "33A, CHOWRINGHEE ROAD, CHATTERJEE INTERNATIONAL CENTRE 2OTH FLOOR KOLKATA WB 700071 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb08"
+  },
+  "cin": "L15491WB1895PLC000985",
+  "company": "ENGO TEA COMPANY LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "12, PRETORIA STREET, 5TH FLOOR, FLAT NO.5A, KOLKATA, Kolkata, INDIA 700071"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb09"
+  },
+  "cin": "L51909WB1895PLC001021",
+  "company": "ALLIANCE UDYOG LTD.",
+  "ROC": "ROC-KOLKATA",
+  "address": "18 NETAJI SUBHASH ROAD KOLKATA Kolkata WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0a"
+  },
+  "cin": "U01132WB1896PLC001049",
+  "company": "PHASKOWA TEA CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "7 SWALLOW LANE KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0b"
+  },
+  "cin": "U91990TZ1896NPL000137",
+  "company": "OOTACAMUND GYMKHANA CLUB",
+  "ROC": "ROC-COIMBATORE",
+  "address": "FINGER POST UDHAGAMANDALAM THE NILGIRIS TN 643006 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0c"
+  },
+  "cin": "U51909AS1896PLC000038",
+  "company": "ASSAM VALLEY TRADING CO LTD",
+  "ROC": "ROC-SHILLONG",
+  "address": "MAIN ROADP.O. TEZPUR, DIST:- SONITPUR TEZPUR , India. 784001"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0d"
+  },
+  "cin": "U65991WB1896PLC001116",
+  "company": "THE INVESTMENT & FINANCE CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "4/1,RED CROSS PLACE, 3RD FLOOR KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0e"
+  },
+  "cin": "U65992TN1896PLC001973",
+  "company": "PURASAWALKAM DHANA VARDHANA SASWATHANIDHI LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "2, KRISHNAPPA MUDALI STREET., PURASALWAKAM, MADRAS TN 600084 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb0f"
+  },
+  "cin": "U91900KL1896GAT001524",
+  "company": "MALABAR CLUB",
+  "ROC": "ROC-ERNAKULAM",
+  "address": "ALLEPPEY Alappuzha KL 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb10"
+  },
+  "cin": "L15491WB1897PLC001365",
+  "company": "KOTHARI PHYTOCHEMICALS & INDUSTRIES LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "8, NETAJI SUBHASH ROAD C-4 GILLANDERS HOUSE KOLKATA WB 700001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb11"
+  },
+  "cin": "U74999MH1897PTC000160",
+  "company": "THE MILL STORES TRADING COMPANY OF INDIA PRIVATE LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MEHTA HOUSE, 79/91, MUMBAI SAMACHAR MARG, FORT, MUMBAI MH 400023 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb12"
+  },
+  "cin": "U17119GJ1897PLC000015",
+  "company": "HATHISING MFG CO LIMITED",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "SARASPUR AHMEDABAD GJ 380018 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb13"
+  },
+  "cin": "U17120GJ1897PLC000016",
+  "company": "THE COMMERCIAL AHMEDABAD MILLS COMPANY LIMITED",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "IDGAH CHOWKY ASARWA GJ 380001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb14"
+  },
+  "cin": "U55101AS1897PLC000060",
+  "company": "CACHAR CLUB CO LTD",
+  "ROC": "ROC-SHILLONG",
+  "address": "CLUB ROAD,SILCHAR CACHAR , India. 788001"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb15"
+  },
+  "cin": "L17120MH1897PLC000163",
+  "company": "CENTURY TEXTILE AND INDUSTRIES LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "'CENTURY BHAVAN'DR ANNIE BESANT ROAD WORLI MUMBAI MH 400025 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb16"
+  },
+  "cin": "U67120TN1897PLC002667",
+  "company": "SRIVILLIPUTTUR PERMANENT FUND LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "20,21 THIRUVENKATA ANNAGKAL (LIBBRARY) STREET SRIVILLIPUTTUR, VIRUDHUNAGAR TN 626125 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb17"
+  },
+  "cin": "L65993WB1897PLC001409",
+  "company": "CHEVIOT CO LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "CELICA HOUSE 9TH FLOOR CELICA PARK 24 PARK STREET KOLKATA Kolkata WB 700016 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb18"
+  },
+  "cin": "U91990UP1898NPL000028",
+  "company": "THE BENARES CLUB LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "CANTT NEAR DISTRICT COURT VARANASI UP 221001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb19"
+  },
+  "cin": "U67190TN1898PLC000425",
+  "company": "CHIDAMBARAM HINDU SASWATHA JANANKULANIDHI LIMITED",
+  "ROC": "ROC-CHENNAI",
+  "address": "166, WEST CAR ST, CHIDAMBARAM TN 608001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1a"
+  },
+  "cin": "U51228WB1898PTC001432",
+  "company": "SAMUEL FITZE & CO PVT LTD",
+  "ROC": "ROC-KOLKATA",
+  "address": "26, JAWAHARLAL NEHURU ROAD, KOLKATA WB 700087 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1b"
+  },
+  "cin": "U15520UP1898PTC000031",
+  "company": "MURRAY AND COMPANY PRIVATE LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "8/21, ARYA NAGAR, KANPUR KANPUR UP 208002 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1c"
+  },
+  "cin": "U45202PB1898PTC002729",
+  "company": "BACHITTER SINGH ANDSONS FINANCE PVT LTD",
+  "ROC": "ROC-CHANDIGARH",
+  "address": "Nishat House G.T. Road MOGA PB 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1d"
+  },
+  "cin": "U91990UP1899NPL000033",
+  "company": "THE MAHOMED BAGH CLUB LIMITED",
+  "ROC": "ROC-KANPUR",
+  "address": "202 MAHTMA GANDHI MARG LUCKNOW UP 226001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1e"
+  },
+  "cin": "L10200WB1899PLC000255",
+  "company": "R. C. A. LIMITED",
+  "ROC": "ROC-KOLKATA",
+  "address": "10 MIDDLETON ROW, KOLKATA WB 700071 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb1f"
+  },
+  "cin": "U17100DL2009PLC095375",
+  "company": "ANMOL INDIA LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "661, GANDHI KATRA CHANDNI CHOWK DELHI DL 110006 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb20"
+  },
+  "cin": "U27100MH1983PTC031137",
+  "company": "NIHAL CAST NYLON PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "135,DR.ANNIE BESANT ROAD,WORLI, BOMBAY-400018. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb21"
+  },
+  "cin": "U17120GJ2000PTC000453",
+  "company": "NAVJIVAN MILLS LTD.",
+  "ROC": "ROC-AHMEDABAD",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb22"
+  },
+  "cin": "U29299PN1899PTC001518",
+  "company": "KIRLOSKAR ENGINEERING PVT. LTD.",
+  "ROC": "ROC-PUNE",
+  "address": "B15/16\"H\"BLOCK MIDC, PIMPRI,,PUNE-411018. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb23"
+  },
+  "cin": "U52520TG2009PTC006708",
+  "company": "GUARD MARKETING ENTERPRISES PVT. LTD.",
+  "ROC": "ROC-HYDERABAD",
+  "address": "BLOCK NO.36, C- FLOOR, UNITY HOUSE, ABIDS HYDERABAD TG 500001 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb24"
+  },
+  "cin": "U99999GJ2000PTC006960",
+  "company": "BALGOVIND AND SONS PVT. LTD.",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "GJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb25"
+  },
+  "cin": "U99999MH9999PLC007517",
+  "company": "VANTA PLASTIC UDYOG PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb26"
+  },
+  "cin": "U29120PN1899PTC005026",
+  "company": "KIRLOSKAR OIL ENGINES AMAL LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "LAXMANRAO KIRLOSKAR ROAD,POONA-411003. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb27"
+  },
+  "cin": "U99999MH2000PTC006885",
+  "company": "STEEL EQUIPMENTS AND CONSTRUCTION PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "WB IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb28"
+  },
+  "cin": "U99999DL2000PTC026047",
+  "company": "PROFESSIONALS FARMS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb29"
+  },
+  "cin": "U21020RJ2009PLC001955",
+  "company": "SATSUVAN PAPER MILLS LTD",
+  "ROC": "ROC-JAIPUR",
+  "address": "Uco Bank Building, Chandpole Bazar, Jaipur RJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2a"
+  },
+  "cin": "U20191PN1899PTC013028",
+  "company": "USHA MALLITH WOOD PROCESSORS P LTD.",
+  "ROC": "ROC-PUNE",
+  "address": "DEEPJYOTI SOCIETY BLOCK NO.11KASTUR PARK SIMPOLI ROAD, BARIWALIWEST , PUNE MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2b"
+  },
+  "cin": "U29199GJ2000PTC001266",
+  "company": "ACCUMAX LTD",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "GJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2c"
+  },
+  "cin": "U22110PN1899PTC006840",
+  "company": "VIMA MUDRAK AND PRAKASHAK LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "R S NO. 333 (KARANJEE) OPPARKASHALA BHAVAN SATARA-2 MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2d"
+  },
+  "cin": "U99999MH9999PLC007536",
+  "company": "UNIVERSAL CORPORATION LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2e"
+  },
+  "cin": "U31300MH1984PTC032665",
+  "company": "JEDI WIRE FLUX PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "ASHIRWAD, 2ND FLRSION WEST MUMBAI 400022 MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb2f"
+  },
+  "cin": "U65990MH1984PTC033636",
+  "company": "IPOL INVESTMENT AND MARKETING CO PVT. LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "406 7 EMBASSY CENTRENARIMAN POINT MUMBAI-400021 MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb30"
+  },
+  "cin": "U67120MH1984PTC034383",
+  "company": "DRASHTI INVESTMENT PVT. LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "61 MOUNT UNIQUEG DESHMUKH MARG MUMBAI 400026 MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb31"
+  },
+  "cin": "U01222TG2009PTC008450",
+  "company": "GAUTHAM AGRO FARMS PRIVATE LIMITED",
+  "ROC": "ROC-HYDERABAD",
+  "address": "PLOT NO.2, ROAD NO.4 SRI KRISHNA NAGAR COLONY, DILSHUKANAGAR HYDERABAD TG 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb32"
+  },
+  "cin": "U72200PN1899PTC004498",
+  "company": "DATA REPRAGRAPHIES PVT LTD",
+  "ROC": "ROC-PUNE",
+  "address": "PLOT NO. 28/22, D-2, BLOCKMDDC. CHIHCHWAD PUNE-411019. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb33"
+  },
+  "cin": "U99999DL2008PTC019086",
+  "company": "KUMI EXPORT HOUSE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "C-190, GREATER KAILASH, PART-I, NEW DELHI DL 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb34"
+  },
+  "cin": "U21010MH1978PTC034360",
+  "company": "ATLAS PAER MILLS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "UNIT NO. 30, SATGURU NANAKIND. ESTATE WESTERN EXPRESS HIGH WAY GOREGAON (E) BOMBAY-400063. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb35"
+  },
+  "cin": "U99999MH9999PLC007723",
+  "company": "THE NEW BARODA MILLS COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb36"
+  },
+  "cin": "U65993GJ2000PTC000444",
+  "company": "BANNER INVESTMENTS LTD.",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "GJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb37"
+  },
+  "cin": "U17120UP1943PLC000155",
+  "company": "CAWNPORE TEXTILES LTD.",
+  "ROC": "ROC-KANPUR",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb38"
+  },
+  "cin": "U24298GJ2000PTC000682",
+  "company": "BIRLA SALT AND CHEMICALS LTD.",
+  "ROC": "ROC-AHMEDABAD",
+  "address": "GJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb39"
+  },
+  "cin": "U74140HR1980PTC010889",
+  "company": "K C J CONSULTANTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3a"
+  },
+  "cin": "U99999DL9999PLC002708",
+  "company": "GLOBE DISEL- AID PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3b"
+  },
+  "cin": "U99999DL2009PTC004003",
+  "company": "ELECTRONIC APPLIANCES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3c"
+  },
+  "cin": "U27200MH1984PLC032567",
+  "company": "COMET STEELS LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "4TH FLEARNEST HOUSE NARIMAN POINT MUMBAI-400021 MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3d"
+  },
+  "cin": "U99999MH9999PLC008685",
+  "company": "BAHRAT FARM MACHINERIES LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3e"
+  },
+  "cin": "U51101RJ1943PTC000160",
+  "company": "PANNA TRADING CO PVT LTD",
+  "ROC": "ROC-JAIPUR",
+  "address": "RJ IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb3f"
+  },
+  "cin": "U27105RJ2010PLC002255",
+  "company": "RAJ PROCESSING LIMITED",
+  "ROC": "ROC-JAIPUR",
+  "address": "RAJASTHAN RAJASTHAN RAJASTHAN RJ 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb40"
+  },
+  "cin": "U51109BR2007PTC011604",
+  "company": "DIVINE DHAN MARKETING PRIVATE LIMITED",
+  "ROC": "ROC-PATNA",
+  "address": "NO.123E SHRI KRISHNAPURI BORING ROAD PATNA-1 G ROAD PATNA-1 BR 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb41"
+  },
+  "cin": "U99999MH9999PLC008870",
+  "company": "WARDEN ROAD POLYCLINIC PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb42"
+  },
+  "cin": "U99999MH9999PLC024554",
+  "company": "INTERNATIONAL INDUSTRIAL DEVELOPMENTCONSULTANTS PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb43"
+  },
+  "cin": "U99999DL2010PTC024652",
+  "company": "DEVI RUBBERS PRIVATE LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb44"
+  },
+  "cin": "U99999DL2000PTC009342",
+  "company": "HIMALYAN TEA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb45"
+  },
+  "cin": "U99999MH9999PLC009928",
+  "company": "NAME NOT AVALEBLE",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb46"
+  },
+  "cin": "U99999MH9999PLC031580",
+  "company": "ARKAY HOLDINGS LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb47"
+  },
+  "cin": "U99999DL2000PTC020416",
+  "company": "UNIQUE DRINKS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb48"
+  },
+  "cin": "U99999DL2000PTC009383",
+  "company": "JAITTY EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb49"
+  },
+  "cin": "U99999MH9999PLC009952",
+  "company": "NAME NOT AVAILABLE",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4a"
+  },
+  "cin": "U99999MH9999PLC031757",
+  "company": "RENUKA CASTINGS PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4b"
+  },
+  "cin": "U99999DL9999PLC002527",
+  "company": "SHYAMSONS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4c"
+  },
+  "cin": "U99999DL2000PTC009560",
+  "company": "ASSOCIATION OF INDIAN FISHERY INDUSTRIES.",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4d"
+  },
+  "cin": "U99999MH9999PLC009964",
+  "company": "KRISHNA RAM BALDEV INVESTMENT ANDFINANCE CO. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4e"
+  },
+  "cin": "U99999MH9999PLC032881",
+  "company": "EMFIN INVESTMENTS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb4f"
+  },
+  "cin": "U99999DL9999PLC002560",
+  "company": "ASSOCIATED COMMERCIAL INVESTMENT PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb50"
+  },
+  "cin": "U99999DL2000PTC009651",
+  "company": "ADVANCED MICRO DEVICES PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb51"
+  },
+  "cin": "U99999MH9999PLC010012",
+  "company": "SATPATHY INDUSTRIAL CONSULTANTS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb52"
+  },
+  "cin": "U99999MH9999PLC033591",
+  "company": "BREEZE INVESTMENTS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb53"
+  },
+  "cin": "U99999DL2000PTC991038",
+  "company": "SHRIRAM NEEDLE BEARING INDISTRIAL LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb54"
+  },
+  "cin": "U99999DL2000PTC009770",
+  "company": "OM STEEL TUBES LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb55"
+  },
+  "cin": "U99999MH9999PLC010079",
+  "company": "DHARANDHARA TRADING CO.PVT. LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb56"
+  },
+  "cin": "U99999MH9999PLC033810",
+  "company": "HALIFAX TRADING CO. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb57"
+  },
+  "cin": "U99999DL2000PTC991102",
+  "company": "ETPTOCS CREDIT AND LEASING LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb58"
+  },
+  "cin": "U99999DL2000PTC009868",
+  "company": "J.B. PAPER MILLS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb59"
+  },
+  "cin": "U99999MH9999PLC010082",
+  "company": "HARGOVINDDAS JIVANDAS ANDSONS LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5a"
+  },
+  "cin": "U99999MH9999PLC035390",
+  "company": "INVEST VALVES PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5b"
+  },
+  "cin": "U99999DL2000PTC904917",
+  "company": "DOALEFOODS AND GENERAL INDUSTRIES P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5c"
+  },
+  "cin": "U99999DL2000PTC009889",
+  "company": "SPAN DECOR PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5d"
+  },
+  "cin": "U99999MH9999PLC010202",
+  "company": "SHRI DIGVIJAYSINJI SPG AND WVG MILLS PRIVATE LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5e"
+  },
+  "cin": "U99999MH9999PLC039193",
+  "company": "FUTURA INDUSTRIES LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb5f"
+  },
+  "cin": "U99999DL2000PTC904918",
+  "company": "YAMDIGN FINANCIAL P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb60"
+  },
+  "cin": "U99999DL2000PTC010056",
+  "company": "OSWAL AGRO MILLS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb61"
+  },
+  "cin": "U99999MH9999PLC010822",
+  "company": "ARIHANT SYNTHETICS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb62"
+  },
+  "cin": "U65922TG2009GAP004258",
+  "company": "MAHESH GRAHA NIRMAN ASSOCIATION LTD.",
+  "ROC": "ROC-HYDERABAD",
+  "address": "4-5-179,SULTAN BAZAR, HYDERABAD-500195 TG 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb63"
+  },
+  "cin": "U99999DL2000PTC904919",
+  "company": "NASVLA HOLDINGS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb64"
+  },
+  "cin": "U99999DL2000PTC010676",
+  "company": "EX-SERVICE MAN TRAVEL AND GOODS CARRIERPVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb65"
+  },
+  "cin": "U99999MH9999PLC011241",
+  "company": "GUJARATI FLYING CLUB LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb66"
+  },
+  "cin": "U72900AP1988PTC008483",
+  "company": "ETA AUTOMATION SYSTEMS PVT LTD",
+  "ROC": "ROC-VIJAYAWADA",
+  "address": "AP IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb67"
+  },
+  "cin": "U99999DL2000PTC904920",
+  "company": "SASTAN HOLDINGS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb68"
+  },
+  "cin": "U99999DL2000PTC010724",
+  "company": "PARAKASH PIPES AND INDUSTRIES LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb69"
+  },
+  "cin": "U99999MH9999PLC000048",
+  "company": "BOMBAY TELEPHONE COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6a"
+  },
+  "cin": "U99999DL2000PTC010725",
+  "company": "JAGDAMBE PAPER INDUSTRIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6b"
+  },
+  "cin": "U99999DL2000PTC904922",
+  "company": "DHANRAJ INVESTMENT AND CO P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6c"
+  },
+  "cin": "U99999DL2000PTC010780",
+  "company": "MONA INTERNATIONAL PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6d"
+  },
+  "cin": "U99999MH9999PLC000059",
+  "company": "BOMBAY FLOOR AND OIL MILL COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6e"
+  },
+  "cin": "U99999DL2000PTC010835",
+  "company": "D.S. COMPUTING PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb6f"
+  },
+  "cin": "U99999DL2000PTC904924",
+  "company": "U.P. STATE BRASSWARES CORPN. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb70"
+  },
+  "cin": "U99999DL2000PTC011056",
+  "company": "SIDHARATHA ENGINNERS INDIA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb71"
+  },
+  "cin": "U99999MH9999PLC000063",
+  "company": "MOHAMMEDPUR COTTON GINNING AND PRESSINGCOMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb72"
+  },
+  "cin": "U99999DL2000PTC011112",
+  "company": "MINAXI ENTERPRISES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb73"
+  },
+  "cin": "U99999DL2000PTC904931",
+  "company": "SABIH HOTELS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb74"
+  },
+  "cin": "U99999DL2000PTC011150",
+  "company": "NAT CHITS (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb75"
+  },
+  "cin": "U99999MH9999PLC000067",
+  "company": "PILLIPS AND COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb76"
+  },
+  "cin": "U99999DL2000PTC011510",
+  "company": "HARYANA AGRICULTURAL RESEARCH INSTITUE",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb77"
+  },
+  "cin": "U99999DL2000PTC904934",
+  "company": "SAHIBABAD EQUIPMENTS P\\. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb78"
+  },
+  "cin": "U99999DL2000PTC011537",
+  "company": "GOLDSTAR FOODS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb79"
+  },
+  "cin": "U99999MH9999PLC000102",
+  "company": "BOMBAY COTTON TRADERS ASSOCIATION LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7a"
+  },
+  "cin": "U99999DL2000PTC011643",
+  "company": "INTERNATIONAL FORGINGS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7b"
+  },
+  "cin": "U99999DL2000PTC904940",
+  "company": "JAI PARABOLIC SPINNINGS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7c"
+  },
+  "cin": "U99999DL2000PTC011696",
+  "company": "ORIENTAL GUMS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7d"
+  },
+  "cin": "U99999MH9999PLC000105",
+  "company": "MAHUVA PRESS COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7e"
+  },
+  "cin": "U99999DL2000PTC011864",
+  "company": "INDIAN PIPES PRIVATE LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb7f"
+  },
+  "cin": "U99999DL2000PTC904960",
+  "company": "POLAR ELECTROTECH LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb80"
+  },
+  "cin": "U99999DL2000PTC011876",
+  "company": "SURENDRA ENTERPRISES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb81"
+  },
+  "cin": "U99999MH9999PLC000112",
+  "company": "BOMBAY COTTON EXCHANGE COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb82"
+  },
+  "cin": "U99999DL2000PTC011987",
+  "company": "DELHI U.P. FILM CHAMBER OF COMMERCE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb83"
+  },
+  "cin": "U99999DL2000PTC904965",
+  "company": "SUREKA COATED TUBES AND SHEETS LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb84"
+  },
+  "cin": "U99999DL2000PTC012015",
+  "company": "CENTURY TOWERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb85"
+  },
+  "cin": "U99999MH9999PLC000125",
+  "company": "MOTUSSIL COTTON MANUFACTURING COMPANY LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb86"
+  },
+  "cin": "U99999DL2000PTC012016",
+  "company": "CENTURY SALES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb87"
+  },
+  "cin": "U99999DL2000PTC905008",
+  "company": "TARAN CHITS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb88"
+  },
+  "cin": "U99999DL2000PTC012048",
+  "company": "D.C. LITERATURE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb89"
+  },
+  "cin": "U99999MH9999PLC000480",
+  "company": "TATA OIL MILLS CO. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8a"
+  },
+  "cin": "U99999DL2000PTC012087",
+  "company": "RAMA METALS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8b"
+  },
+  "cin": "U99999DL2000PTC905009",
+  "company": "TASHA MEDICAL MARKET PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8c"
+  },
+  "cin": "U99999DL2000PTC012154",
+  "company": "S S S INFOMATIX CONSULTANTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8d"
+  },
+  "cin": "U99999MH9999PLC001819",
+  "company": "HARINAGAR SUGAR MILLS LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8e"
+  },
+  "cin": "U99999DL2000PTC012162",
+  "company": "GULATI CABLES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb8f"
+  },
+  "cin": "U99999DL2000PTC905010",
+  "company": "NIMO CHEMICALS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb90"
+  },
+  "cin": "U99999DL2000PTC008064",
+  "company": "MITTRA MOVIES (DELHI) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb91"
+  },
+  "cin": "U99999MH9999PLC002137",
+  "company": "SHYMIS OVERSEAS TRADE PVT LTD",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb92"
+  },
+  "cin": "U99999DL2000PTC008085",
+  "company": "PERMUTIF (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb93"
+  },
+  "cin": "U99999DL2000PTC905017",
+  "company": "DEEMA PAINTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb94"
+  },
+  "cin": "U99999DL2000PTC008094",
+  "company": "HARYANA COSMETICS AND CHEMICALS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb95"
+  },
+  "cin": "U99999MH9999PLC002139",
+  "company": "INTERCOM ENGINEERS LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb96"
+  },
+  "cin": "U99999DL2000PTC008121",
+  "company": "HUNS FISHERIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb97"
+  },
+  "cin": "U99999DL2000PTC905019",
+  "company": "COSMIQUE EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb98"
+  },
+  "cin": "U99999DL2000PTC008172",
+  "company": "A B BOUTIQUE INTERNATIONAL PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb99"
+  },
+  "cin": "U99999MH9999PLC002712",
+  "company": "RAJLAXMI SYNTHETICS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9a"
+  },
+  "cin": "U99999DL2000PTC008186",
+  "company": "BHARATPUR LEATHER MANUFACTURERS SPVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9b"
+  },
+  "cin": "U99999DL2000PTC905029",
+  "company": "RECVANJDI FURNISHERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9c"
+  },
+  "cin": "U99999DL2000PTC008192",
+  "company": "VAIBHAV CONSULTANTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9d"
+  },
+  "cin": "U99999MH9999PLC004037",
+  "company": "BOMBAY DYEING AND MFG. CO. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9e"
+  },
+  "cin": "U99999DL2000PTC008205",
+  "company": "GULMOHAR EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cb9f"
+  },
+  "cin": "U99999DL2000PTC905076",
+  "company": "SULAK HITECH ENGINEERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba0"
+  },
+  "cin": "U99999DL2000PTC008250",
+  "company": "TITTY SEA FOOD PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba1"
+  },
+  "cin": "U99999MH9999PLC004048",
+  "company": "HERO EXPORTS PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "HERO NAGAR,G.T.ROAD,LUDHIANA,PUNJAB. MH 000000 IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba2"
+  },
+  "cin": "U99999DL2000PTC008274",
+  "company": "AVANTI ASSOCIATES (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba3"
+  },
+  "cin": "U99999DL2000PTC905603",
+  "company": "R.H.WATERSEAL PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba4"
+  },
+  "cin": "U99999DL2000PTC008275",
+  "company": "FARIDABAD RUBBER SOLES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba5"
+  },
+  "cin": "U99999MH9999PLC004060",
+  "company": "D.C. OOMRIGAR AND CO. PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba6"
+  },
+  "cin": "U99999DL2000PTC008284",
+  "company": "PRAYAS PUBLICATIONS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba7"
+  },
+  "cin": "U99999DL2000PTC909020",
+  "company": "INDURE PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba8"
+  },
+  "cin": "U99999DL2000PTC008326",
+  "company": "K.L. KHANNA ENTERPRISES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cba9"
+  },
+  "cin": "U99999MH9999PLC004606",
+  "company": "J.K.INVESTORS (BOMBAY) LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbaa"
+  },
+  "cin": "U99999DL2000PTC008457",
+  "company": "KAYSONS EXPORTERS AND MFRS. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbab"
+  },
+  "cin": "U99999DL2000PTC909036",
+  "company": "JAVED BHAI IMPEX PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbac"
+  },
+  "cin": "U99999DL2000PTC008461",
+  "company": "HARYANA CABLES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbad"
+  },
+  "cin": "U99999MH9999PLC004771",
+  "company": "MADHU BREWERIES (M.P.), PVT. LTD.",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbae"
+  },
+  "cin": "U99999DL2000PTC008523",
+  "company": "ALKA CHIT AND TRADING PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbaf"
+  },
+  "cin": "U99999DL2000PTC909043",
+  "company": "ARCHANA INVESTMENT PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb0"
+  },
+  "cin": "U99999DL2000PTC008590",
+  "company": "DELHI BULLION REFINERY PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb1"
+  },
+  "cin": "U99999MH9999PLC004853",
+  "company": "CHAUDHURY SUGAR MILLS PVT. LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb2"
+  },
+  "cin": "U99999DL2000PTC008604",
+  "company": "JOHARI CERAMITES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb3"
+  },
+  "cin": "U99999DL2000PTC909044",
+  "company": "SHRI OM INDUSTRIES PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb4"
+  },
+  "cin": "U99999DL2000PTC008609",
+  "company": "KARAN CHIT FUND AND FINANCE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb5"
+  },
+  "cin": "U99999MH9999PLC005336",
+  "company": "ACCLIVIONS INVESTMENTS PVT. LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb6"
+  },
+  "cin": "U99999DL2000PTC008730",
+  "company": "FARIDABAD CLOTH WEAVING PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb7"
+  },
+  "cin": "U99999DL2000PTC909096",
+  "company": "IBCRIS BUILDERS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb8"
+  },
+  "cin": "U99999DL2000PTC008745",
+  "company": "PIONEER TRAVELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbb9"
+  },
+  "cin": "U99999MH9999PLC006146",
+  "company": "AKHANEY AND SONS LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbba"
+  },
+  "cin": "U99999DL2000PTC008793",
+  "company": "PANCHKULA WIRES PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbbb"
+  },
+  "cin": "U99999DL2000PTC909116",
+  "company": "CHEMPROJECTS MARIENTAL P LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbbc"
+  },
+  "cin": "U99999DL2000PTC008835",
+  "company": "KISSAN COTENSS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbbd"
+  },
+  "cin": "U99999MH9999PLC006200",
+  "company": "VASTRA BHANDAR LIMITED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbbe"
+  },
+  "cin": "U99999DL2000PTC008862",
+  "company": "PROCIYANIC EXPORTERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbbf"
+  },
+  "cin": "U99999DL2000PTC909144",
+  "company": "GURJAS ENGINEERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc0"
+  },
+  "cin": "U99999DL2000PTC008863",
+  "company": "NOVEX CHIT FUND PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc1"
+  },
+  "cin": "U99999MH9999PLC006202",
+  "company": "CHIMBHAI AND SONS LIMIUTED",
+  "ROC": "ROC-MUMBAI",
+  "address": "MH IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc2"
+  },
+  "cin": "U99999DL2000PTC008996",
+  "company": "NEW ASH POWERSCIENCE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc3"
+  },
+  "cin": "U99999DL2000PTC990254",
+  "company": "GENERAL AND TIMBER PRODUCTS DELHI.",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc4"
+  },
+  "cin": "U99999DL2000PTC009015",
+  "company": "TULPAR ENGINEERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc5"
+  },
+  "cin": "U99999BR9999PLC902859",
+  "company": "ASHIANA DEVELOPERS LTD",
+  "ROC": "ROC-PATNA",
+  "address": "BR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc6"
+  },
+  "cin": "U99999DL2000PTC009108",
+  "company": "SATYAM SINFAX LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc7"
+  },
+  "cin": "U99999DL2000PTC990417",
+  "company": "KRISHNA MOHTA KOSH",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc8"
+  },
+  "cin": "U99999DL2000PTC009217",
+  "company": "HINDUSTAN INSTRUMENTS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbc9"
+  },
+  "cin": "U99999BR9999PLC005889",
+  "company": "MAYAMANGAL DEVELOPERS PVT. LTD.",
+  "ROC": "ROC-PATNA",
+  "address": "BR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbca"
+  },
+  "cin": "U99999DL2000PTC007613",
+  "company": "BHARAT MARTIN PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbcb"
+  },
+  "cin": "U99999DL2000PTC990680",
+  "company": "SHIVA TISSUES AND FLEXPAC LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbcc"
+  },
+  "cin": "U99999DL2000PTC007614",
+  "company": "ARCHNA TRAVELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbcd"
+  },
+  "cin": "U99999BR9999PLC005829",
+  "company": "SHIVGANGA FILMS PVT. LTD.",
+  "ROC": "ROC-PATNA",
+  "address": "BR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbce"
+  },
+  "cin": "U99999DL2000PTC007631",
+  "company": "TRISHUL TRANSPORT PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbcf"
+  },
+  "cin": "U99999DL2000PTC990798",
+  "company": "UNIQUE PIPE TRADERS",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd0"
+  },
+  "cin": "U99999DL2000PTC007642",
+  "company": "EASTERN NECTAR PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd1"
+  },
+  "cin": "U99999DL2000PTC903520",
+  "company": "HINDUSTAN INALDA LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd2"
+  },
+  "cin": "U99999DL2000PTC007648",
+  "company": "TECHNOFAB (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd3"
+  },
+  "cin": "U99999DL2000PTC903522",
+  "company": "DAIRY FINANCE PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd4"
+  },
+  "cin": "U99999DL2000PTC007663",
+  "company": "JAIN MALLEABLES CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd5"
+  },
+  "cin": "U99999DL2000PTC903536",
+  "company": "JANDK STEEL ENGINEERS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd6"
+  },
+  "cin": "U99999DL2000PTC007668",
+  "company": "UTTARA KHAND FOREST CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd7"
+  },
+  "cin": "U99999DL2000PTC903634",
+  "company": "S.R.S. INVESTMENT P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd8"
+  },
+  "cin": "U99999DL2000PTC007678",
+  "company": "KWALITY TRADING CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbd9"
+  },
+  "cin": "U99999DL2000PTC903646",
+  "company": "SANKAR ENTERPRISES P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbda"
+  },
+  "cin": "U99999DL2000PTC007679",
+  "company": "INDENTO OVERSEAS TRADERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbdb"
+  },
+  "cin": "U99999DL2000PTC903762",
+  "company": "DU-RUB P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbdc"
+  },
+  "cin": "U99999DL2000PTC007692",
+  "company": "ROCCO ELECTRICALS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbdd"
+  },
+  "cin": "U99999DL2000PTC903899",
+  "company": "PRC COMPOSITS INDIA LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbde"
+  },
+  "cin": "U99999DL2000PTC007702",
+  "company": "CHHIKARA MUTUAL SAVINGS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbdf"
+  },
+  "cin": "U99999DL2000PTC903901",
+  "company": "KARUA INDUSTRIES LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe0"
+  },
+  "cin": "U99999DL2000PTC007731",
+  "company": "ARGEE INDUSTRIAL SECURITY PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe1"
+  },
+  "cin": "U99999DL2000PTC903902",
+  "company": "MATHER DERBY (INDIA) LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe2"
+  },
+  "cin": "U99999DL2000PTC007750",
+  "company": "VISHNU FOOD PRODUCTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe3"
+  },
+  "cin": "U99999DL2000PTC903910",
+  "company": "HABRO PETROCHEMICALS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe4"
+  },
+  "cin": "U99999DL2000PTC007756",
+  "company": "TOP STYLE APPARELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe5"
+  },
+  "cin": "U99999DL2000PTC903936",
+  "company": "GOPIKA TRADERS AND ELECTRICALS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe6"
+  },
+  "cin": "U99999DL2000PTC007779",
+  "company": "YAMUNA CHIT FUND AND FINANCE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe7"
+  },
+  "cin": "U99999DL2000PTC903949",
+  "company": "MARLES INVESTMENTS (INDIA) LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe8"
+  },
+  "cin": "U99999DL2000PTC007791",
+  "company": "QUALITY GASES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbe9"
+  },
+  "cin": "U99999DL2000PTC903978",
+  "company": "SARUMAL INVESTMENT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbea"
+  },
+  "cin": "U99999DL2000PTC007808",
+  "company": "VEE FIL PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbeb"
+  },
+  "cin": "U99999DL2000PTC903980",
+  "company": "STROSS CRYSTALS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbec"
+  },
+  "cin": "U99999DL2000PTC007843",
+  "company": "PRIYADARSHANI LINK CHAINS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbed"
+  },
+  "cin": "U99999DL2000PTC904070",
+  "company": "MANAGEMENT SERVICES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbee"
+  },
+  "cin": "U99999DL2000PTC007849",
+  "company": "CHETAK TRANSPORT CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbef"
+  },
+  "cin": "U99999DL2000PTC904072",
+  "company": "DHARAM CHAND JAIN PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf0"
+  },
+  "cin": "U99999DL2000PTC007872",
+  "company": "BAWA AUTOMOBILES AND TRACTORS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf1"
+  },
+  "cin": "U99999DL2000PTC904074",
+  "company": "ESSEM COMMERCIAL PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf2"
+  },
+  "cin": "U99999DL2000PTC007903",
+  "company": "OKARA FINANCIERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf3"
+  },
+  "cin": "U99999DL2000PTC904076",
+  "company": "SANVT CO (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf4"
+  },
+  "cin": "U99999DL2000PTC007907",
+  "company": "A B M CONSULTANTS (INDIA ) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf5"
+  },
+  "cin": "U99999DL2000PTC904523",
+  "company": "BENGAL BEVEL GESS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf6"
+  },
+  "cin": "U99999DL2000PTC007909",
+  "company": "RAMA EXPORTS (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf7"
+  },
+  "cin": "U99999DL2000PTC904544",
+  "company": "RAMA HOLDINGS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf8"
+  },
+  "cin": "U99999DL2000PTC007916",
+  "company": "VIKRANT EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbf9"
+  },
+  "cin": "U99999DL2000PTC904578",
+  "company": "AGOTI FASHIONS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbfa"
+  },
+  "cin": "U99999DL2000PTC007935",
+  "company": "METALLIC FLEXIBLE TUBES MFRS. ASSOCIATION.",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbfb"
+  },
+  "cin": "U99999DL2000PTC904691",
+  "company": "KIBEX INTERNATIONAL LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbfc"
+  },
+  "cin": "U99999DL2000PTC007978",
+  "company": "IDEAL AUTOLINE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbfd"
+  },
+  "cin": "U99999DL2000PTC904729",
+  "company": "TRIVENI PULL INDUSTRIAL LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbfe"
+  },
+  "cin": "U99999DL2000PTC007985",
+  "company": "LAL RAJ PRINTERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cbff"
+  },
+  "cin": "U99999DL2000PTC904732",
+  "company": "ISMACO ENGG. FINANCE LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc00"
+  },
+  "cin": "U99999DL2000PTC006649",
+  "company": "MALIKLO GRANNLES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc01"
+  },
+  "cin": "U99999DL2000PTC904831",
+  "company": "JANAK TUBES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc02"
+  },
+  "cin": "U99999DL2000PTC006656",
+  "company": "APARNA AGRO PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc03"
+  },
+  "cin": "U99999DL2000PTC904877",
+  "company": "VIDYA MANDIR LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc04"
+  },
+  "cin": "U99999DL2000PTC006658",
+  "company": "DELITE FOOTWEAR AND ALLIED INDUSTRIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc05"
+  },
+  "cin": "U99999DL2000PTC904880",
+  "company": "ARYANO CHEMICALS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc06"
+  },
+  "cin": "U99999DL2000PTC006660",
+  "company": "ZUTSHI'S TRAVEL WORLD SERVICE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc07"
+  },
+  "cin": "U99999DL2000PTC904904",
+  "company": "SIDDHESWARI PROMOTERS AND BUILDERS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc08"
+  },
+  "cin": "U99999DL2000PTC006664",
+  "company": "RANCHI BREWERIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc09"
+  },
+  "cin": "U99999DL2000PTC904913",
+  "company": "ENTIN SHIPPING (INDIA) P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0a"
+  },
+  "cin": "U99999DL2000PTC006668",
+  "company": "HIMADRI FOODS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0b"
+  },
+  "cin": "U99999DL2000PTC904915",
+  "company": "UMNATHI D.K.S. FNGINEERING P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0c"
+  },
+  "cin": "U99999DL2000PTC006673",
+  "company": "PROMINENT AUTO DISTRIBUTORS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0d"
+  },
+  "cin": "U99999DL2000PTC901874",
+  "company": "SHONALAK CONSTRUCTION AND ESTATES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0e"
+  },
+  "cin": "U99999DL2000PTC006679",
+  "company": "INTERNATIONAL ANGORA BREEDING FARM PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc0f"
+  },
+  "cin": "U99999DL2000PTC901895",
+  "company": "HOWTEH AIR PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc10"
+  },
+  "cin": "U99999DL2000PTC006683",
+  "company": "RANI EXPORTS AND IMPORTS (INDIA) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc11"
+  },
+  "cin": "U99999DL2000PTC901917",
+  "company": "TWENTY FIRST CENTURY ELECTERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc12"
+  },
+  "cin": "U99999DL2000PTC006689",
+  "company": "C.M. WASTE PRODUCTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc13"
+  },
+  "cin": "U99999DL2000PTC901920",
+  "company": "SYNTHETICS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc14"
+  },
+  "cin": "U99999DL2000PTC006692",
+  "company": "TULARAM AND CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc15"
+  },
+  "cin": "U99999DL2000PTC901924",
+  "company": "CHHAVVI BUILDERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc16"
+  },
+  "cin": "U99999DL2000PTC006699",
+  "company": "SHRUTI MOVERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc17"
+  },
+  "cin": "U99999DL2000PTC901927",
+  "company": "CAMELLA DEVELOPERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc18"
+  },
+  "cin": "U99999DL2000PTC006718",
+  "company": "HARYANA HUME PIPES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc19"
+  },
+  "cin": "U99999DL2000PTC901931",
+  "company": "MANCHARI ELASTOMARS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1a"
+  },
+  "cin": "U99999DL2000PTC006720",
+  "company": "WORLDWIDE AGENCIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1b"
+  },
+  "cin": "U99999DL2000PTC901957",
+  "company": "SWASTIC HOLDINGS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1c"
+  },
+  "cin": "U99999DL2000PTC006796",
+  "company": "MARUTI AUTOWAYS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1d"
+  },
+  "cin": "U99999DL2000PTC901984",
+  "company": "CAMELLIA DEVELOPERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1e"
+  },
+  "cin": "U99999DL2000PTC006811",
+  "company": "RIDSS TRAVELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc1f"
+  },
+  "cin": "U99999DL2000PTC901988",
+  "company": "LIPHER TECNOLOGIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc20"
+  },
+  "cin": "U99999DL2000PTC006829",
+  "company": "PROFESSIONAL AND MANAGERIAL CONSULTANTSPVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc21"
+  },
+  "cin": "U99999DL2000PTC902044",
+  "company": "CHERI OVERSEAS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc22"
+  },
+  "cin": "U99999DL2000PTC006850",
+  "company": "AMBER WEAVING MILLS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc23"
+  },
+  "cin": "U99999DL2000PTC902046",
+  "company": "G. DESIGNERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc24"
+  },
+  "cin": "U99999DL2000PTC006851",
+  "company": "CAPITAL EXPORT HOUSE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc25"
+  },
+  "cin": "U99999DL2000PTC902051",
+  "company": "DEVICE PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc26"
+  },
+  "cin": "U99999DL2000PTC006856",
+  "company": "MOHTS PETRO CHEMICALS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc27"
+  },
+  "cin": "U99999DL2000PTC902054",
+  "company": "DURALITE ELECTRIC PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc28"
+  },
+  "cin": "U99999DL2000PTC006866",
+  "company": "INDUSTRIAL PROJECTS AND ENGINEERING CO.PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc29"
+  },
+  "cin": "U99999DL2000PTC902217",
+  "company": "SERVICES AND CONSULTANCY P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2a"
+  },
+  "cin": "U99999DL2000PTC006867",
+  "company": "TRIDENT MARKETING AND ADVERTISING PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2b"
+  },
+  "cin": "U99999DL2000PTC902575",
+  "company": "UNITECH METALS LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2c"
+  },
+  "cin": "U99999DL2000PTC006273",
+  "company": "RATIONAL BUILDERS MANAGEMENT PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2d"
+  },
+  "cin": "U99999DL2000PTC902611",
+  "company": "SAI MOB. AUTO LINKS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2e"
+  },
+  "cin": "U99999DL2000PTC006297",
+  "company": "SILVERLINE HOTELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc2f"
+  },
+  "cin": "U99999DL2000PTC902650",
+  "company": "S.K.S.C.ENGINEERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc30"
+  },
+  "cin": "U99999DL2000PTC006309",
+  "company": "NAVCHETAN ENGINEERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc31"
+  },
+  "cin": "U99999DL2000PTC902664",
+  "company": "NEW GREAT EASTERN SPINNING AND WEAVING CO. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc32"
+  },
+  "cin": "U99999DL2000PTC006313",
+  "company": "CHANDRA VIDESH UDYOG PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc33"
+  },
+  "cin": "U99999DL2000PTC903002",
+  "company": "MEHTA ALLIED PRODUCTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc34"
+  },
+  "cin": "U99999DL2000PTC006317",
+  "company": "PRAMAN CAPACITORS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc35"
+  },
+  "cin": "U99999DL2000PTC903004",
+  "company": "MARVA MERCANTILE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc36"
+  },
+  "cin": "U99999DL2000PTC006329",
+  "company": "INTERIOR DESIGNS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc37"
+  },
+  "cin": "U99999DL2000PTC903015",
+  "company": "NEERAN IMPEX P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc38"
+  },
+  "cin": "U99999DL2000PTC006332",
+  "company": "LA REMEDIA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc39"
+  },
+  "cin": "U99999DL2000PTC903019",
+  "company": "SIGNAR CONSULTANTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3a"
+  },
+  "cin": "U99999DL2000PTC006343",
+  "company": "RUMACK EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3b"
+  },
+  "cin": "U99999DL2000PTC903038",
+  "company": "GATCO FILTERS AND EXPORTERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3c"
+  },
+  "cin": "U99999DL2000PTC006363",
+  "company": "SUTURE LABORATORIES OF INDIA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3d"
+  },
+  "cin": "U99999DL2000PTC903502",
+  "company": "SUVIDHA INVESTMENT CO.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3e"
+  },
+  "cin": "U99999DL2000PTC006365",
+  "company": "TOBACCO ACCESSORIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc3f"
+  },
+  "cin": "U99999DL2000PTC903504",
+  "company": "BHOPAL EXPORTS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc40"
+  },
+  "cin": "U99999DL2000PTC006366",
+  "company": "M.A. STEEL PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc41"
+  },
+  "cin": "U99999DL2000PTC903507",
+  "company": "RAUTRAI INSTRUMENTATION LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc42"
+  },
+  "cin": "U99999DL2000PTC006377",
+  "company": "AVTAR SALH GASES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc43"
+  },
+  "cin": "U99999DL2000PTC903509",
+  "company": "BIMAL BATTERIES PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc44"
+  },
+  "cin": "U99999DL2000PTC006378",
+  "company": "BULLION MERCHANTS ASSOCIATION LABORATORY PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc45"
+  },
+  "cin": "U99999DL2000PTC903510",
+  "company": "BIGOMICS ENGINEERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc46"
+  },
+  "cin": "U99999DL2000PTC006410",
+  "company": "PROVEN PLASTICS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc47"
+  },
+  "cin": "U99999DL2000PTC900993",
+  "company": "VINSAM PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc48"
+  },
+  "cin": "U99999DL2000PTC006411",
+  "company": "GEETA KNITWEARS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc49"
+  },
+  "cin": "U99999DL2000PTC901021",
+  "company": "TINNACLE INVESTMENT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4a"
+  },
+  "cin": "U99999DL2000PTC006423",
+  "company": "ALFRED PHARMACEUTICALS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4b"
+  },
+  "cin": "U99999DL2000PTC901041",
+  "company": "BST MFG. LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4c"
+  },
+  "cin": "U99999DL2000PTC006429",
+  "company": "R.T.V. SALES PROMOTION PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4d"
+  },
+  "cin": "U99999DL2000PTC901065",
+  "company": "TRANS NATIONAL PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4e"
+  },
+  "cin": "U99999DL2000PTC006430",
+  "company": "FOURWHEELS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc4f"
+  },
+  "cin": "U99999DL2000PTC901123",
+  "company": "MENA EQUIPMENTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc50"
+  },
+  "cin": "U99999DL2000PTC006437",
+  "company": "WELLCAST PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc51"
+  },
+  "cin": "U99999DL2000PTC901260",
+  "company": "HOME PRODUCTS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc52"
+  },
+  "cin": "U99999DL2000PTC006449",
+  "company": "HIMALAYA POCKET BOOKS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc53"
+  },
+  "cin": "U99999DL2000PTC901265",
+  "company": "SOULA HANDLOOM INDUSTRIES PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc54"
+  },
+  "cin": "U99999DL2000PTC006450",
+  "company": "TWENTY FIRST CENTURY CONSTRUCTIONS PRIVATE LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc55"
+  },
+  "cin": "U99999DL2000PTC901267",
+  "company": "EPAMMETAL INDUSTRIES (DELHI) PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc56"
+  },
+  "cin": "U99999DL2000PTC006485",
+  "company": "BHAGWAN DASS CHAI AND SONS REROLLERSPVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc57"
+  },
+  "cin": "U99999DL2000PTC901268",
+  "company": "COUGAR INTERNATIONAL PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc58"
+  },
+  "cin": "U99999DL2000PTC006486",
+  "company": "YAMHA ELECTRONICS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc59"
+  },
+  "cin": "U99999DL2000PTC901269",
+  "company": "PUNICA DEVELOPERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5a"
+  },
+  "cin": "U99999DL2000PTC006504",
+  "company": "S.P. AGENCIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5b"
+  },
+  "cin": "U99999DL2000PTC901278",
+  "company": "SONIA MOTOR FINANCE PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5c"
+  },
+  "cin": "U99999DL2000PTC006506",
+  "company": "TRISUL TOOLS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5d"
+  },
+  "cin": "U99999DL2000PTC901307",
+  "company": "SUPER PRAY FIBRES P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5e"
+  },
+  "cin": "U99999DL2000PTC006513",
+  "company": "CRESCENT MOVIE DISTRIBUTORS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc5f"
+  },
+  "cin": "U99999DL2000PTC901314",
+  "company": "R. AWAL AGENCIES P.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc60"
+  },
+  "cin": "U99999DL2000PTC006521",
+  "company": "CURE CHEM PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc61"
+  },
+  "cin": "U99999DL2000PTC901447",
+  "company": "REC EASTERNS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc62"
+  },
+  "cin": "U99999DL2000PTC006602",
+  "company": "DELHI BRIQUETTING CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc63"
+  },
+  "cin": "U99999DL2000PTC901454",
+  "company": "UNI COST P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc64"
+  },
+  "cin": "U99999DL2000PTC006613",
+  "company": "DRILLING EQUIPMENTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc65"
+  },
+  "cin": "U99999DL2000PTC901455",
+  "company": "UTILITY EQUIPMENT AND MANAGEMENT P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc66"
+  },
+  "cin": "U99999DL2000PTC006036",
+  "company": "WAVERLEY INDUSTRIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc67"
+  },
+  "cin": "U99999DL2000PTC901459",
+  "company": "NAWAL BUILDERS AND CONTRACTERS P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc68"
+  },
+  "cin": "U99999DL2000PTC006042",
+  "company": "RAJENDER SINGH GENERAL FINANCE AND CONS. CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc69"
+  },
+  "cin": "U99999DL2000PTC901461",
+  "company": "SARESS AUTO P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6a"
+  },
+  "cin": "U99999DL2000PTC006043",
+  "company": "GREWAL FARMS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6b"
+  },
+  "cin": "U99999DL2000PTC901464",
+  "company": "STICH WELL POLYTEX PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6c"
+  },
+  "cin": "U99999DL2000PTC006046",
+  "company": "PREM ENGINEERS AND PACKERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6d"
+  },
+  "cin": "U99999DL2000PTC901466",
+  "company": "FERCO MINERALS AND CHEMICALS INDUSTRIESP. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6e"
+  },
+  "cin": "U99999DL2000PTC006056",
+  "company": "W.S. CHANDOAK CHIT AND FINANCE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc6f"
+  },
+  "cin": "U99999DL2000PTC901468",
+  "company": "SAVABAH INTERNATIONAL CORPORATION P. LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc70"
+  },
+  "cin": "U99999DL2000PTC006061",
+  "company": "AVTAR AUTO INDUSTRIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc71"
+  },
+  "cin": "U99999DL2000PTC901571",
+  "company": "SHIVALIK SYLVI CULTURE PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc72"
+  },
+  "cin": "U99999DL2000PTC006064",
+  "company": "AERO AGRICULTURE AVIATION PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc73"
+  },
+  "cin": "U99999DL2000PTC901658",
+  "company": "KLENZER FILTERS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc74"
+  },
+  "cin": "U99999DL2000PTC006068",
+  "company": "UTTAR BHARAT VANASPATI PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc75"
+  },
+  "cin": "U99999DL2000PTC901664",
+  "company": "INOTICS BRASS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc76"
+  },
+  "cin": "U99999DL2000PTC006069",
+  "company": "SANJIB PROPERTIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc77"
+  },
+  "cin": "U99999DL2000PTC901827",
+  "company": "A E C SYNTHESIA LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc78"
+  },
+  "cin": "U99999DL2000PTC006071",
+  "company": "KAMAL TAKNIKI SALES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc79"
+  },
+  "cin": "U99999DL2000PTC901836",
+  "company": "R K AUTO INDIA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7a"
+  },
+  "cin": "U99999DL2000PTC006087",
+  "company": "STEMCON PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7b"
+  },
+  "cin": "U99999DL2000PTC901837",
+  "company": "CHARKA EXPERTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7c"
+  },
+  "cin": "U99999DL2000PTC006095",
+  "company": "TRAVANCORE AMMONIA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7d"
+  },
+  "cin": "U99999DL2000PTC901838",
+  "company": "CONNEET CONSULTANTS (I) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7e"
+  },
+  "cin": "U99999DL2000PTC006111",
+  "company": "PRASHAVE AUTO PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc7f"
+  },
+  "cin": "U99999DL2000PTC901871",
+  "company": "ONIEGA CHEMICAL PRODUCTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc80"
+  },
+  "cin": "U99999DL2000PTC006118",
+  "company": "BEDO TOURIST TRANSPORT CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc81"
+  },
+  "cin": "U99999DL2000PTC035214",
+  "company": "WOMEN ENTREPRENEURS RESOURCE DEVLOPMENTAGENCY",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc82"
+  },
+  "cin": "U99999DL2000PTC006123",
+  "company": "N S H BUSINESS MACHINES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc83"
+  },
+  "cin": "U99999DL2000PTC035647",
+  "company": "COMENT INDIA PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc84"
+  },
+  "cin": "U99999DL2000PTC006144",
+  "company": "PUBLIC CONSTRUCTION CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc85"
+  },
+  "cin": "U99999DL2000PTC035882",
+  "company": "TRIDENT EXPORTS PVT.",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc86"
+  },
+  "cin": "U99999DL2000PTC006148",
+  "company": "PHOENIX ELECTRONICS INDUSTRIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc87"
+  },
+  "cin": "U99999DL2000PTC036155",
+  "company": "L ALMA INTERNATIONAL PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc88"
+  },
+  "cin": "U99999DL2000PTC006166",
+  "company": "AMAR CINEMA PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc89"
+  },
+  "cin": "U99999DL2000PTC036315",
+  "company": "BLISS ANAND ENGINEERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8a"
+  },
+  "cin": "U99999DL2000PTC006200",
+  "company": "SYNDICATE MOTORS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8b"
+  },
+  "cin": "U99999DL2000PTC036953",
+  "company": "SACHBROS VINIYOG LTD",
+  "ROC": "ROC-DELHI",
+  "address": ""
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8c"
+  },
+  "cin": "U99999DL2000PTC006213",
+  "company": "MANAGEMENT AND PRODUCTIVITY CONSULTANTSPVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8d"
+  },
+  "cin": "U99999DL2000PTC037479",
+  "company": "VARDHAMAN BLOW PACK PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8e"
+  },
+  "cin": "U99999DL2000PTC006218",
+  "company": "SURAJ MAN INVESTMENTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc8f"
+  },
+  "cin": "U99999DL2000PTC037905",
+  "company": "TUBE TEX LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc90"
+  },
+  "cin": "U99999DL2000PTC006220",
+  "company": "GODKA TILES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc91"
+  },
+  "cin": "U99999DL2000PTC040218",
+  "company": "ANUPA MA INVESTMENT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc92"
+  },
+  "cin": "U99999DL2000PTC006248",
+  "company": "ENGINEERS ASSOCIATED (DELHI) PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc93"
+  },
+  "cin": "U99999DL2000PTC043734",
+  "company": "PAWANSUT CREDITS PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc94"
+  },
+  "cin": "U99999DL2000PTC006255",
+  "company": "SURAJ MAN DEVELOPMENT CO. PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc95"
+  },
+  "cin": "U99999DL2000PTC026514",
+  "company": "SINGLA TUBES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc96"
+  },
+  "cin": "U99999DL2000PTC006265",
+  "company": "SUPERWHITE ENGINEERS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc97"
+  },
+  "cin": "U99999DL2000PTC026675",
+  "company": "KHUBSOORAT CHIT FUND PVT.LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc98"
+  },
+  "cin": "U99999DL2000PTC006267",
+  "company": "SHIVA DRUGS AND ALKLOIDS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc99"
+  },
+  "cin": "U99999DL2000PTC026702",
+  "company": "M.S. SERVICES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9a"
+  },
+  "cin": "U99999DL2000PTC006268",
+  "company": "SHIVA OVERSEAS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9b"
+  },
+  "cin": "U99999DL2000PTC026768",
+  "company": "HARYANA POLYTEX LIMITED",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9c"
+  },
+  "cin": "U99999DL2000PTC006272",
+  "company": "SODHI BUS SERVICE PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9d"
+  },
+  "cin": "U99999DL2000PTC026861",
+  "company": "FRIENDS AGRI PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9e"
+  },
+  "cin": "U99999DL2000PTC005770",
+  "company": "CRUSHED METAL AND BUILDING ACESSORIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cc9f"
+  },
+  "cin": "U99999DL2000PTC026875",
+  "company": "FUJI (INTERNATIONAL) LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cca0"
+  },
+  "cin": "U99999DL2000PTC005777",
+  "company": "PARAS EXPORTS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cca1"
+  },
+  "cin": "U99999DL2000PTC026893",
+  "company": "HITKARI CHITS PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cca2"
+  },
+  "cin": "U99999DL2000PTC005801",
+  "company": "SIGMA BUSINESS MACHINES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "DL IN"
+},
+{
+  "_id": {
+    "$oid": "64d75e188406e7af1f90cca3"
+  },
+  "cin": "U99999DL2000PTC027030",
+  "company": "VIKAS PROPERTIES PVT LTD",
+  "ROC": "ROC-DELHI",
+  "address": "HR IN"
+}]
