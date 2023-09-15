@@ -6,13 +6,22 @@ from webdriver_manager.firefox import GeckoDriverManager
 import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, filename="test.log", filemode="w")
+logger = logging.getLogger()
 
 driver=webdriver.Firefox(service=FirefoxService("C:/Users/firedriver/geckodriver.exe"))
 url=("https://atg.party/")
 r=driver.get(url)
 print(r)
 time.sleep(0.2)
-response_code = driver.execute_script("return window.performance.getEntriesByType('navigation')[0].responseCode;")
+# Check HTTP response code
+response_code = driver.execute_script("return document.readyState;")
+response=logger.info("HTTP response code: {}".format(response_code == "complete"))
+print("HTTP_response =",response_code)
+#check time
 response_time = driver.execute_script("return window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;")
 print("HTTP Response Code:", response_code)
 print("Page Load Response Time:", response_time, "ms")
@@ -55,7 +64,6 @@ post_button.click()
 time.sleep(0.5)
 
 # Log the URL of the new page
-#WebDriverWait(driver,20).until(EC.visibility_of_all_elements_located((By.XPATH,"//div[@class='yuRUbf']/a[@href]")))
 new_page_url = driver.current_url
 print("New Page URL:", new_page_url)
 #driver.close()
